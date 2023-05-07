@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="facebook"
+        android:id="@+id/facebookButton"
+        android:icon="@mipmap/facebook"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:title="twitter"
+        android:id="@+id/twitterButton"
+        android:icon="@mipmap/twitter"
+        app:showAsAction="ifRoom" />
+    <item
+        android:title="heart"
+        android:id="@+id/HeartButton"
+        android:icon="@drawable/heart_outline"
+        app:showAsAction="ifRoom" />
+</menu>

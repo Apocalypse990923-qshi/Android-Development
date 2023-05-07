@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EventFinder</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="search_fragment_label">Search Fragment</string>
+    <string name="events_fragment_label">Events Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="keyword_hint">Enter the Keyword</string>
+    <string name="location_hint">Enter the Location</string>
+    <string name="lorem_ipsum">fuckkkkkkkk!!!!!!!!!</string>
+    lorem_ipsum
+    <string-array name="categoryOptions">
+        <item>All</item>
+        <item>Music</item>
+        <item>Sports</item>
+        <item>Arts &amp; Theatre</item>
+        <item>Film</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <string name="spotify_url"><u>Check out on Spotify</u></string>
+
+</resources>
